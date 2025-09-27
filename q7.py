@@ -1,4 +1,4 @@
-#
+# Print here something like multiplication symbol using pattern
 '''
 
 Enter a number here: 9

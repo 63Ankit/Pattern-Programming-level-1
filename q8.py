@@ -1,4 +1,4 @@
-#
+# Print here something like Plus Symbol 
 '''
 
       *
